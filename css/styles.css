@@ -68,9 +68,6 @@ body {
   text-align: left;
   background-color: #fff;
 }
-.khmer-font { 
-  font-family: 'Koulen', cursive;
-}
 
 [tabindex="-1"]:focus:not(:focus-visible) {
   outline: 0 !important;
